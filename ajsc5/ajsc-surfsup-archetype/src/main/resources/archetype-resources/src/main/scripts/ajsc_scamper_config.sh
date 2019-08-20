@@ -4,7 +4,6 @@ echo Scamper execution for `date` > output.txt
 release=4.1.0
 appName=ajscTestApp
 scamperServer=http://zltv3689.vci.att.com:8585
-userCredentials=jh0003:123123a
 role=com.att.ajsc.TestApp.Administrator
 env=nonprod
 LONGITUDE=33.6
